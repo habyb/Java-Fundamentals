@@ -30,6 +30,9 @@ Thumbs.db
 .classpath
 .project
 
+# VS Code
+.vscode
+
 # Logging
 *.log
 
